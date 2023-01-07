@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 83
-image: /images/posts/liabost.webp
+image: /images/posts/cleoc-astair.webp
 category:
     - Alba
 tag: []

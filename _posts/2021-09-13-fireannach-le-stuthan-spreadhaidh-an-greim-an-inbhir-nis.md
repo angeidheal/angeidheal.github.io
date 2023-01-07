@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 89
-image: /images/posts/cuirt-inbhir-nis.webp
+image: /images/posts/poileas.webp
 category:
     - Alba
 tag: []
