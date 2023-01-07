@@ -31,4 +31,4 @@ Tha cuideachd casg air daoine a bhios a’ gabhail chungaidhean-leigheis a leith
 
 Thathar an dùil gun tèid an casg a thogail as t-earrach.
 
-\[Nochd an sgeulachd seo air a’ Ghèidheal Ùr o thùs\](https://angeidhealur.scot/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail/).
+[Nochd an sgeulachd seo air a’ Ghèidheal Ùr o thùs](https://angeidhealur.scot/2021-12-01-casg-air-daoine-le-hiv-san-arm-ga-thogail/).
