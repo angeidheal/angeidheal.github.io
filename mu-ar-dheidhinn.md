@@ -16,6 +16,6 @@ Faodar fios a chur thugam air:
 
 #### Fo-sgriobh
 
-**RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://criomagan.scot/feed/](https://criomagan.scot/feed/).
+**RSS.** Faodaidh tu fo-sgrìobhadh ris an inbhir RSS agam: [https://criomagan.scot/feed](https://criomagan.scot/feed).
 
 **Mastodon.** [@angeidheal@mastodon.scot](https:www.mastodon.scot/@angeidheal)
