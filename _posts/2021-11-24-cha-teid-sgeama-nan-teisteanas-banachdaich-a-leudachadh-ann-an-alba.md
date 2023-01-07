@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 60
-thumbnail: ../uploads/2022/12/covid-vaccine.webp
+image: /images/posts/covid-vaccine.webp
 category:
     - Alba
     - Lagh

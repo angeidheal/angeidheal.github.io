@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 83
-thumbnail: ../uploads/2022/12/liabost.jpg
+image: /images/posts/liabost.webp
 category:
     - Alba
 tag: []

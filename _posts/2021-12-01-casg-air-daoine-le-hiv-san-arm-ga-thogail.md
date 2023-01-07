@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 23
-thumbnail: ../uploads/2021/12/ministreachd-an-dion.webp
+image: /images/posts/ministreachd-an-dion.webp
 category:
     - 'An Rìoghachd Aonaichte'
     - Lagh

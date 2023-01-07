@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 117
-thumbnail: ../uploads/2022/12/rathad-duinte.jpg
+image: /images/posts/rathad-duinte.webp
 category:
     - Alba
 tag: []

@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 86
-thumbnail: ../uploads/2022/12/drugaichean.jpg
+image: /images/posts/drugaichean.webp
 category:
     - Alba
     - Poileataigs

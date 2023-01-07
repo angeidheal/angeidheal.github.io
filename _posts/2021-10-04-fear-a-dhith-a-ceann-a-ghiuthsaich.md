@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 65
-thumbnail: ../uploads/2022/12/ross-mcquade.jpg
+image: /images/posts/ross-mcquade.webp
 category:
     - Alba
 tag: []

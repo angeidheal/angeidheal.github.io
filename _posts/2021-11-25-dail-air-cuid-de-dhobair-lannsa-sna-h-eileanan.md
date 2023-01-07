@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 49
-thumbnail: ../uploads/2022/12/obair-lannsa.webp
+image: /images/posts/obair-lannsa.webp
 category:
     - Alba
     - Slàinte

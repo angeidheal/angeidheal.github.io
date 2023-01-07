@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 92
-thumbnail: ../uploads/2022/12/emma-roddick.jpg
+image: /images/posts/emma-roddick.webp
 category:
     - Alba
     - LGBT

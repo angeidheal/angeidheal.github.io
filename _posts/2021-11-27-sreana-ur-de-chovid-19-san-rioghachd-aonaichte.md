@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 38
-thumbnail: ../uploads/2021/11/bhioras.jpg
+image: /images/posts/bhioras.webp
 category:
     - 'An Rìoghachd Aonaichte'
     - Slàinte

@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 28
-thumbnail: ../uploads/2021/11/bhioras.jpg
+image: /images/posts/bhioras.jpg
 category:
     - Alba
     - Slàinte

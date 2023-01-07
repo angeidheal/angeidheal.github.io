@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 95
-thumbnail: ../uploads/2022/12/riaghaltas-na-h-alba.jpg
+image: /images/posts/riaghaltas-na-h-alba.webp
 category:
     - Alba
     - Poileataigs

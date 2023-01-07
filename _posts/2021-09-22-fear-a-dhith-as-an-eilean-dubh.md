@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 77
-thumbnail: ../uploads/2022/12/dean-lockhart.jpg
+image: /images/posts/dean-lockhart.webp
 category:
     - Alba
 tag: []

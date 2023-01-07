@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 52
-thumbnail: ../uploads/2022/12/cleoc-astair.webp
+image: /images/posts/cleoc-astair.webp
 category:
     - Alba
     - Lagh

@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 80
-thumbnail: ../uploads/2022/12/banachdach-do-chlann.jpg
+image: /images/posts/banachdach-do-chlann.webp
 category:
     - Alba
     - Slàinte

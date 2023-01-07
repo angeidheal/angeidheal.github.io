@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 104
-thumbnail: ../uploads/2022/12/highland-business-women-awards.jpg
+image: /images/posts/highland-business-women-awards.webp
 category:
     - Cultar
     - Gnìomhachas

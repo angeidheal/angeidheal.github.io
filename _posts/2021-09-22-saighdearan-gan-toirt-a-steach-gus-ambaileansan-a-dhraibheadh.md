@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 74
-thumbnail: ../uploads/2022/12/ambaileans.jpg
+image: /images/posts/ambaileans.webp
 category:
     - Alba
     - Poileataigs

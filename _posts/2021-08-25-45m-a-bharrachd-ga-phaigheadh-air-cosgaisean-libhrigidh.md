@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 110
-thumbnail: ../uploads/2022/12/parsailean.jpg
+image: /images/posts/parsailean.webp
 category:
     - Alba
     - Gnìomhachas

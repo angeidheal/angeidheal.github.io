@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 68
-thumbnail: ../uploads/2022/12/pride-flag.jpg
+image: /images/posts/pride-flag.webp
 category:
     - 'An t-Saoghal'
     - Poileataigs

@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 101
-thumbnail: ../uploads/2022/12/downing-street.jpg
+image: /images/posts/downing-street.webp
 category:
     - 'An Rìoghachd Aonaichte'
     - Poileataigs

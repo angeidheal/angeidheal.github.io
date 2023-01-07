@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 115
-thumbnail: ../uploads/2022/12/poileas.webp
+image: /images/posts/poileas.webp
 category:
     - Alba
 tag: []

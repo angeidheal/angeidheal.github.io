@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 40
-thumbnail: ../uploads/2022/12/stoirm.webp
+image: /images/posts/stoirm.webp
 category:
     - Aimsir
     - Alba

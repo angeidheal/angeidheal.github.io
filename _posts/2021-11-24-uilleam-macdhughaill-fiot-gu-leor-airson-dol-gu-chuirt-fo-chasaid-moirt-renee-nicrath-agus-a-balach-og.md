@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 56
-thumbnail: ../uploads/2022/12/renee-nicrath.webp
+image: /images/posts/renee-nicrath.webp
 category:
     - Alba
     - Lagh

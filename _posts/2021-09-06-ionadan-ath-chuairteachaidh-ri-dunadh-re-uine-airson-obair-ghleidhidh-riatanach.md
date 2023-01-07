@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 98
-thumbnail: ../uploads/2022/12/biona-ath-chuartachaidh.jpg
+image: /images/posts/biona-ath-chuartachaidh.webp
 category:
     - Alba
 tag: []

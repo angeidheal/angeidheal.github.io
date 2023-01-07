@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 71
-thumbnail: ../uploads/2022/12/sgoil.jpg
+image: /images/posts/sgoil.webp
 category:
     - Alba
     - Foghlam

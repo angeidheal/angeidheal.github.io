@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 107
-thumbnail: ../uploads/2022/12/alba-nuadh.jpg
+image: /images/posts/alba-nuadh.webp
 category:
     - 'An t-Saoghal'
     - Gàidhlig
