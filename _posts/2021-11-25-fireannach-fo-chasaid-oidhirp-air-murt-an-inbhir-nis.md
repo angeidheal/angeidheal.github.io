@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 46
-image: /images/posts/cuirt-inbhir-nis.webp
+image: /images/posts/poileas.webp
 category:
     - Alba
     - Lagh
