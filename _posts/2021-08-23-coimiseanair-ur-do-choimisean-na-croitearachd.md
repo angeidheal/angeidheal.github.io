@@ -7,7 +7,7 @@ author: 'Crìstean MacMhìcheil'
 excerpt: ''
 type: post
 id: 124
-image: /images/posts/coimisean-na-croitearachd.jpg
+image: /images/posts/coimisean-na-croitearachd.webp
 category:
     - Alba
     - Poileataigs
