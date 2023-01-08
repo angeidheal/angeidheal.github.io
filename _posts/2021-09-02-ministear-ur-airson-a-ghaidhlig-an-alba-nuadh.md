@@ -1,18 +1,12 @@
 ---
-title: 'Ministear ùr airson a&#8217; Ghàidhlig an Alba Nuadh'
-date: '2021-09-02T18:00:51+01:00'
-status: publish
-permalink: /2021-09-02-ministear-ur-airson-a-ghaidhlig-an-alba-nuadh
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 107
+layout: post
+date: 2021-09-02 18:00
+title: "Ministear ùr airson a' Ghàidhlig an Alba Nuadh"
 image: /images/posts/alba-nuadh.webp
-category:
-    - 'An t-Saoghal'
+author: Crìstean MacMhìcheil
+categories:
+    - An t-Saoghal
     - Gàidhlig
-tag: []
-post_format: []
 ---
 Dh’ainmich prìomhaire ùr Alba Nuaidh, Tim Houston, an caibineat aige Dimàirt.
 
