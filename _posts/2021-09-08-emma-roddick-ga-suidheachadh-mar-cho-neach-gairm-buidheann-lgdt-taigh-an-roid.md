@@ -6,7 +6,7 @@ image: /images/posts/emma-roddick.webp
 author: Crìstean MacMhìcheil
 categories:
     - Alba
-    - LGBTQIA
+    - LGBTQIA+
     - Poileataigs
 ---
 Chaidh Emma Roddick BPA a shuidheachadh mar cho-neach-gairm buidheann thar-phàrtaidh LGDT+ Taigh an Ròid.
