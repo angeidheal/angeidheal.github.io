@@ -1,1 +1,1 @@
-Repository for [An t-Ubhal-ghort](https://macmhicheil.scot/), a Scottish Gaelic language blog hosted on GitHub Pages.
+Repository for [Criomagan](https://criomagan.scot/), a Scottish Gaelic language news blog hosted on GitHub Pages.
