@@ -60,17 +60,12 @@ img {
 }
 
 a {
-  font-weight: bold;
-}
-
-.content-area a, footer a {
-  color: $text-color;
-  text-decoration: underline;
-  text-underline-offset: 0.4em;
-}
-
-.content-area a:hover, footer a {
   color: $brand-color;
+}
+
+a:hover {
+  color: $brand-color;
+  text-decoration: underline;
 }
 
 code {
