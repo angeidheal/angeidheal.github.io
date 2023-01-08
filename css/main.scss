@@ -60,12 +60,14 @@ img {
 }
 
 a {
-  color: $brand-color;
+  color: $text-color;
+  text-decoration: underline;
+  text-decoration-color: $brand-color;
+  font-weight: bold;
 }
 
 a:hover {
   color: $brand-color;
-  text-decoration: underline;
 }
 
 code {
