@@ -1,18 +1,12 @@
 ---
-title: 'Coimiseanair ùr do Choimisean na Croitearachd'
-date: '2021-08-23T16:18:19+01:00'
-status: publish
-permalink: /2021-08-23-coimiseanair-ur-do-choimisean-na-croitearachd
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 124
+layout: post
+date: 2021-08-23 16:18
+title: Coimiseanair ùr do Choimisean na Croitearachd
 image: /images/posts/coimisean-na-croitearachd.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Poileataigs
-tag: []
-post_format: []
 ---
 Chaidh ainmeachadh gur e Eairsidh Mac an Aba na Choimiseanair ùr airson Taobh Sear na Gàidhealtachd aig Coimisean na Croitearachd.
 
