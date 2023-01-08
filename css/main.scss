@@ -55,6 +55,14 @@ h6{
   font-size: 20px;
 }
 
+.post-title a {
+  text-decoration: none;
+}
+
+.post-title a:hover {
+  text-decoration: underline;
+}
+
 img {
   max-width: 100%;
 }
@@ -63,12 +71,12 @@ a {
   font-weight: bold;
 }
 
-.content-area a {
+.content-area a, footer a {
   color: $text-color;
   text-decoration: underline;
 }
 
-.content-area a:hover {
+.content-area a:hover, footer a {
   color: $brand-color;
 }
 
