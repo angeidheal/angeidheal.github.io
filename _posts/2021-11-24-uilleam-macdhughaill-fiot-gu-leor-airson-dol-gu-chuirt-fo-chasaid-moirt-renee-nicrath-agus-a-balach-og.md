@@ -1,18 +1,12 @@
 ---
-title: 'Uilleam MacDhùghaill fiot gu leòr airson dol gu chùirt fo chasaid moirt Renee NicRath agus a balach òg'
-date: '2021-11-24T18:00:36+00:00'
-status: publish
-permalink: /2021-11-24-uilleam-macdhughaill-fiot-gu-leor-airson-dol-gu-chuirt-fo-chasaid-moirt-renee-nicrath-agus-a-balach-og
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 56
+layout: post
+date: 2021-11-24 18:00
+title: Uilleam MacDhùghaill fiot gu leòr airson dol gu chùirt fo chasaid moirt Renee NicRath agus a balach òg
 image: /images/posts/renee-nicrath.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Lagh
-tag: []
-post_format: []
 ---
 Tha britheamh air co-dhùnadh gu bheil Uilleam MacDhùghaill fiot gu leòr airson dol gu cùirt fo chasaid moirt Renee NicRath agus a balach òg, Anndra, bho chionn 45 bliadhna.
 

@@ -1,22 +1,12 @@
 ---
-title: 'Rabhadh orainds airson Stoirm Arwen'
-date: '2021-11-25T18:00:43+00:00'
-status: publish
-permalink: /2021-11-25-rabhadh-orainds-airson-stoirm-arwen
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 40
+layout: post
+date: 2021-11-25 18:00
+title: Rabhadh orainds airson Stoirm Arwen
 image: /images/posts/stoirm.webp
+author: Crìstean MacMhìcheil
 category:
     - Aimsir
     - Alba
-tag:
-    - Alba
-    - 'Oifis na Sìde'
-    - 'Rabhadh Orainds'
-    - 'Stoirm Arwen'
-post_format: []
 ---
 Tha Oifis na Sìde a’ sgaoileadh rabhadh orainds airson ceann a tuath agus taobh sear na h-Alba ’s iad ag ràdh gu bheil dùil ri gaoith suas ri 75m.s.u bho thuath no an iar-thuath ann an cuid de sgìrean.
 

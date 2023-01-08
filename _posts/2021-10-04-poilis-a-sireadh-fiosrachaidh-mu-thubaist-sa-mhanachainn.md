@@ -1,18 +1,12 @@
 ---
-title: 'Poilis a&#8217; sireadh fiosrachaidh mu thubaist sa Mhanachainn'
-date: '2021-10-04T18:00:27+01:00'
-status: publish
-permalink: /2021-10-04-poilis-a-sireadh-fiosrachaidh-mu-thubaist-sa-mhanachainn
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 63
+layout: post
+date: 2021-10-04 18:00
+title: "Poilis a' sireadh fiosrachaidh mu thubaist sa Mhanachainn"
 image: /images/posts/poileas.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Lagh
-tag: []
-post_format: []
 ---
 Tha na Poilis an Inbhir Nis a’ sireadh fiosrachaidh as dèidh dà thachartas oidhche Shathairne a dh’fhaodadh a bhith ceangailte.
 

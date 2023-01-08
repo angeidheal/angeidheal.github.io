@@ -1,18 +1,12 @@
 ---
-title: 'Muinntir na h-Eilbheise air bhòtadh airson pòsadh aon-sheòrsach'
-date: '2021-09-26T20:15:58+01:00'
-status: publish
-permalink: /2021-09-26-muinntir-na-h-eilbheise-air-bhotadh-airson-posadh-aon-sheorsach
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 68
+layout: post
+date: 2021-09-26 20:15
+title: Muinntir na h-Eilbheise air bhòtadh airson pòsadh aon-sheòrsach
 image: /images/posts/pride-flag.webp
-category:
-    - 'An t-Saoghal'
+author: Crìstean MacMhìcheil
+categories:
+    - An t-Saoghal
     - Poileataigs
-tag: []
-post_format: []
 ---
 Tha cha mhòr dà thrian de luchd-bhòtaidh anns an Eilbheis air bhòtadh airson pòsadh aon-sheòrsach a dhèanamh laghail san dùthaich.
 

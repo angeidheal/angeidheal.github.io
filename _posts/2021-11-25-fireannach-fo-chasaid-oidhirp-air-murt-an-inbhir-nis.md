@@ -1,23 +1,12 @@
 ---
-title: 'Fireannach fo chasaid oidhirp air murt an Inbhir Nis'
-date: '2021-11-25T18:00:11+00:00'
-status: publish
-permalink: /2021-11-25-fireannach-fo-chasaid-oidhirp-air-murt-an-inbhir-nis
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 46
+layout: post
+date: 2021-11-25 18:00
+title: Fireannach fo chasaid oidhirp air murt an Inbhir Nis
 image: /images/posts/poileas.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Lagh
-tag:
-    - 'Gary Paterson'
-    - 'Inbhir Nis'
-    - Inverness
-    - 'oidhirp air muirt'
-    - 'William Williamson'
-post_format: []
 ---
 Thèid neach-amharais mu choinneamh diùraidh san Fhaoilleach fo chasaid oidhirp fireannach a mhurt le bhith ga bhualadh air a cheann le àmhainn meanbh-thonn.
 

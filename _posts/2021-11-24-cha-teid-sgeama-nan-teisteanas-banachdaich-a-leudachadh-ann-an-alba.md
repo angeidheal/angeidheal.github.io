@@ -1,20 +1,14 @@
 ---
-title: 'Cha tèid sgeama nan teisteanas banachdaich a leudachadh ann an Alba'
-date: '2021-11-24T18:00:02+00:00'
-status: publish
-permalink: /2021-11-24-cha-teid-sgeama-nan-teisteanas-banachdaich-a-leudachadh-ann-an-alba
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 60
+layout: post
+date: 2021-11-24 18:00
+title: Cha tèid sgeama nan teisteanas banachdaich a leudachadh ann an Alba
 image: /images/posts/covid-vaccine.webp
+author: Crìstean MacMhìcheil
 category:
     - Alba
     - Lagh
     - Poileataigs
     - Slàinte
-tag: []
-post_format: []
 ---
 Dh’ainmich am Prìomh Mhinistear, Nicola Sturgeon, nach tèid sgeama nan teisteanas banachdaich a leudachadh ann an Alba agus gum bidh Albannaich comasach air ionadan agus tachartasan a frithealadh le bhith a’ sealltainn toradh deuchainne lateral flow àicheil.
 

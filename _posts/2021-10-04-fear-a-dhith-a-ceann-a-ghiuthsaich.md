@@ -1,17 +1,11 @@
 ---
-title: 'Fear a dhìth à Ceann a&#8217; Ghiùthsaich'
-date: '2021-10-04T14:30:39+01:00'
-status: publish
-permalink: /2021-10-04-fear-a-dhith-a-ceann-a-ghiuthsaich
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 65
+layout: post
+date: 2021-10-04 14:30
+title: "Fear a dhìth à Ceann a' Ghiùthsaich"
 image: /images/posts/ross-mcquade.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-tag: []
-post_format: []
 ---
 Tha Poileas Alba a’ sireadh fiosrachaidh mu Ross McQuade a tha a dhìth à Ceann a’ Ghiùthsaich.
 

@@ -1,17 +1,11 @@
 ---
-title: 'Ath-chuinge mu charbadan siubhal aig astar air slighe an NC500'
-date: '2021-09-14T13:30:52+01:00'
-status: publish
-permalink: /2021-09-14-ath-chuinge-mu-charbadan-siubhal-aig-astar-air-slighe-an-nc500
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 83
+layout: post
+date: 2021-09-14 13:30
+title: Ath-chuinge mu charbadan siubhal aig astar air slighe an NC500
 image: /images/posts/cleoc-astair.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-tag: []
-post_format: []
 ---
 Tha boireannach à Liabost air taobh sear Ghallaibh air ath-chuinge mu charbadan siubhal aig astar air slighe an NC500 a thòiseachadh is còrr air 400 air an ainmean a chur rithe thuige seo.
 

@@ -1,23 +1,12 @@
 ---
-title: 'Ionnsaigh dhrabasta an Inbhir Nis'
-date: '2021-11-25T18:00:54+00:00'
-status: publish
-permalink: /2021-11-25-ionnsaigh-dhrabasta-an-inbhir-nis
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 43
+layout: post
+date: 2021-11-25 18:00
+title: Ionnsaigh dhrabasta an Inbhir Nis
 image: /images/posts/poileas.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Lagh
-tag:
-    - 'Brown Street'
-    - 'Inbhir Nis'
-    - Inverness
-    - 'ionnsaigh dhrabasta'
-    - 'Poileas Alba'
-post_format: []
 ---
 Tha Poileas Alba a’ sireadh fiosrachaidh as dèidh mar a dh’fhulaing boireannach, 35, ionnsaigh dhrabasta an Inbhir Nis.
 

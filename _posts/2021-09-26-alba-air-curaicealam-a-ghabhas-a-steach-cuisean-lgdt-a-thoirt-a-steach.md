@@ -1,18 +1,12 @@
 ---
-title: 'Alba air curaicealam a ghabhas a-steach cùisean LGDT+ a thoirt a-steach'
-date: '2021-09-26T12:53:03+01:00'
-status: publish
-permalink: /2021-09-26-alba-air-curaicealam-a-ghabhas-a-steach-cuisean-lgdt-a-thoirt-a-steach
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 71
+layout: post
+date: 2021-09-26 12:53
+title: Alba air curaicealam a ghabhas a-steach cùisean LGDT+ a thoirt a-steach
 image: /images/posts/sgoil.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Foghlam
-tag: []
-post_format: []
 ---
 ‘S e Alba a’ chiad dùthaich san t-saoghal gus curraicealam a ghabhas a-steach cùisean leasbach, gèidh, dà-sheòrsach is tar-ghnèitheach a thoirt a-steach.
 

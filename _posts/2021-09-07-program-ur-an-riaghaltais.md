@@ -1,18 +1,12 @@
 ---
-title: 'Prògram ùr an Riaghaltais'
-date: '2021-09-07T21:45:37+01:00'
-status: publish
-permalink: /2021-09-07-program-ur-an-riaghaltais
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 95
+layout: post
+date: 2021-09-07 21:45
+title: Prògram ùr an Riaghaltais
 image: /images/posts/riaghaltas-na-h-alba.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Poileataigs
-tag: []
-post_format: []
 ---
 Tha am Prìomh Mhinistear, Nicola Sturgeon, an-diugh air prìomh amasan an Riaghaltais airson na bliadhna air thoiseach a mhìneachadh.
 

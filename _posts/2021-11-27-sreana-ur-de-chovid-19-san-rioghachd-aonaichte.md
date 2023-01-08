@@ -1,23 +1,12 @@
 ---
-title: 'Srèana ùr de Chovid-19 san Rìoghachd Aonaichte'
-date: '2021-11-27T18:00:55+00:00'
-status: publish
-permalink: /2021-11-27-sreana-ur-de-chovid-19-san-rioghachd-aonaichte
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 38
+layout: post
+date: 2021-11-27 18:00
+title: Srèana ùr de Chovid-19 san Rìoghachd Aonaichte
 image: /images/posts/bhioras.webp
-category:
-    - 'An Rìoghachd Aonaichte'
+author: Crìstean MacMhìcheil
+categories:
+    - An Rìoghachd Aonaichte
     - Slàinte
-tag:
-    - Coróna-bhìoras
-    - Coronavirus
-    - COVID
-    - COVID-19
-    - Omicron
-post_format: []
 ---
 Tha Rùnaire Stàite na Slàinte is a’ Chùraim Shòisealta, Sajid Javid, air ainmeachadh gu bheil dà chùis de dh’Omicron, an srèana ùr de Chovid-19 a thig à Afraga a Deas, air nochdadh san Rìoghachd Aonaichte.
 

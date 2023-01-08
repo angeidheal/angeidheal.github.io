@@ -1,17 +1,11 @@
 ---
-title: 'Ionadan ath-chuairteachaidh ri dùnadh rè ùine airson obair-ghlèidhidh riatanach'
-date: '2021-09-06T18:00:37+01:00'
-status: publish
-permalink: /2021-09-06-ionadan-ath-chuairteachaidh-ri-dunadh-re-uine-airson-obair-ghleidhidh-riatanach
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 98
+layout: post
+date: 2021-09-06 18:00
+title: Ionadan ath-chuairteachaidh ri dùnadh rè ùine airson obair-ghlèidhidh riatanach
 image: /images/posts/biona-ath-chuartachaidh.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-tag: []
-post_format: []
 ---
 Tha Comhairle na Gàidhealtachd air ainmeachadh gun tèid dà ionad ath-chuairteachaidh aca a dhùnadh an t-seachdain seo airson obair-ghlèidhidh riatanach.
 

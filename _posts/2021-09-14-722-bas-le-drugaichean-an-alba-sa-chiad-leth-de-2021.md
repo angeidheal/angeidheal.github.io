@@ -1,19 +1,13 @@
 ---
-title: '722 bàs le drugaichean an Alba sa chiad leth de 2021'
-date: '2021-09-14T20:30:38+01:00'
-status: publish
-permalink: /2021-09-14-722-bas-le-drugaichean-an-alba-sa-chiad-leth-de-2021
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 86
+layout: post
+date: 2021-09-14 20:30
+title: 722 bàs le drugaichean an Alba sa chiad leth de 2021
 image: /images/posts/drugaichean.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Poileataigs
     - Slàinte
-tag: []
-post_format: []
 ---
 Tha figearan ùra bho Riaghaltas na h-Alba a’ sealltainn gun robh 722 bàs an Alba sa chiad leth de 2021 is amharas ann gun robh iad ceangailte ri drugaichean.
 

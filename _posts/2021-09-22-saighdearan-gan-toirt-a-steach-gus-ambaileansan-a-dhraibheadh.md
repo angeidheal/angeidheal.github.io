@@ -1,19 +1,13 @@
 ---
-title: 'Saighdearan gan toirt a-steach gus ambaileansan a dhràibheadh'
-date: '2021-09-22T08:20:18+01:00'
-status: publish
-permalink: /2021-09-22-saighdearan-gan-toirt-a-steach-gus-ambaileansan-a-dhraibheadh
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 74
+layout: post
+date: 2021-09-22 08:20
+title: Saighdearan gan toirt a-steach gus ambaileansan a dhràibheadh
 image: /images/posts/ambaileans.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Poileataigs
     - Slàinte
-tag: []
-post_format: []
 ---
 Chaidh ainmeachadh an-diugh gun tòisich saighdearan a’ dràibheadh ambaileansan dha Seirbheis Ambaileans na h-Alba Disathairne.
 

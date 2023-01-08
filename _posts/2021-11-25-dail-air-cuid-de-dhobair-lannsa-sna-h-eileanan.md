@@ -1,25 +1,12 @@
 ---
-title: 'Dàil air cuid de dh’obair-lannsa sna h-Eileanan'
-date: '2021-11-25T18:00:07+00:00'
-status: publish
-permalink: /2021-11-25-dail-air-cuid-de-dhobair-lannsa-sna-h-eileanan
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 49
+layout: post
+date: 2021-11-25 18:00
+title: Dàil air cuid de dh’obair-lannsa sna h-Eileanan
 image: /images/posts/obair-lannsa.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Slàinte
-tag:
-    - Coróna-bhìoras
-    - Coronavirus
-    - COVID
-    - COVID-19
-    - 'Na h-Eilean Siar'
-    - NHS
-    - obair-lannsa
-post_format: []
 ---
 Tha NHS nan Eilean Siar air dàil a chur air cuid de dh’obair-lannsa agus coinneamhan dotair mar thoradh an cuideam a tha coròna-bhìoras a chur air na seirbheisean aca.
 

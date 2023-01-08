@@ -1,19 +1,13 @@
 ---
-title: 'Emma Roddick ga suidheachadh mar cho-neach-gairm buidheann LGDT+ Taigh an Ròid'
-date: '2021-09-08T21:00:43+01:00'
-status: publish
-permalink: /2021-09-08-emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 92
+layout: post
+date: 2021-09-08 21:00
+title: Emma Roddick ga suidheachadh mar cho-neach-gairm buidheann LGDT+ Taigh an Ròid
 image: /images/posts/emma-roddick.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-    - LGBT
+    - LGBTQIA
     - Poileataigs
-tag: []
-post_format: []
 ---
 Chaidh Emma Roddick BPA a shuidheachadh mar cho-neach-gairm buidheann thar-phàrtaidh LGDT+ Taigh an Ròid.
 
