@@ -59,10 +59,13 @@ img {
   max-width: 100%;
 }
 
+a {
+  font-weight: bold;
+}
+
 .content-area a {
   color: $text-color;
   text-decoration: underline;
-  font-weight: bold;
 }
 
 .content-area a:hover {
