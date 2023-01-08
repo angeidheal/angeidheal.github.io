@@ -1,17 +1,11 @@
 ---
-title: 'Fear air a lorg slàn sàbhailte'
-date: '2021-08-24T15:04:35+01:00'
-status: publish
-permalink: /2021-08-24-fear-air-a-lorg-slan-sabhailte
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 115
+layout: post
+date: 2021-08-24 15:04
+title: Fear air a lorg slàn sàbhailte
 image: /images/posts/poileas.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-tag: []
-post_format: []
 ---
 Tha na Poileas ann an Inbhir Nis air dearbhadh gun deach fear a bha a dhìth a lorg slàn sàbhailte.
 

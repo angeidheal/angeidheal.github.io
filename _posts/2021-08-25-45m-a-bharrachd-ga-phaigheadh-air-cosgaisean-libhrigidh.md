@@ -1,18 +1,12 @@
 ---
-title: '£45m a bharrachd ga phàigheadh air cosgaisean lìbhrigidh'
-date: '2021-08-25T15:50:06+01:00'
-status: publish
-permalink: /2021-08-25-45m-a-bharrachd-ga-phaigheadh-air-cosgaisean-libhrigidh
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 110
+layout: post
+date: 2021-08-25 15:50
+title: £45m a bharrachd ga phàigheadh air cosgaisean lìbhrigidh
 image: /images/posts/parsailean.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
     - Gnìomhachas
-tag: []
-post_format: []
 ---
 Tha figearan ùra bho Ionad Fiosrachaidh Pàrlamaid na h-Alba a’ sealltainn gu bheil luchd-ceannaich an Alba a’ pàigheadh cha mhòr cho mòr ri £45m a bharrachd air cosgaisean airson pharsailean.
 

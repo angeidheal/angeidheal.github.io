@@ -1,17 +1,11 @@
 ---
-title: 'Fear à Inbhir Nis a dhìth'
-date: '2021-08-23T17:03:46+01:00'
-status: publish
-permalink: /2021-08-23-fear-a-inbhir-nis-a-dhith
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 122
+layout: post
+date: 2021-08-23 17:03
+title: Fear à Inbhir Nis a dhìth
 image: /images/posts/poileas.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-tag: []
-post_format: []
 ---
 Tha na Poileas ann an Inbhir Nis airson cluinntinn bho dhuine sam bith a chunnaic fear à Inbhir Nis a tha a dhìth.
 

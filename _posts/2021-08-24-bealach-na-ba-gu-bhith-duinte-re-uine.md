@@ -1,17 +1,11 @@
 ---
-title: 'Bealach na Bà gu bhith dùinte rè ùine'
-date: '2021-08-24T17:43:10+01:00'
-status: publish
-permalink: /2021-08-24-bealach-na-ba-gu-bhith-duinte-re-uine
-author: 'Crìstean MacMhìcheil'
-excerpt: ''
-type: post
-id: 117
+layout: post
+date: 2021-08-24 17:43
+title: Bealach na Bà gu bhith dùinte rè ùine
 image: /images/posts/rathad-duinte.webp
-category:
+author: Crìstean MacMhìcheil
+categories:
     - Alba
-tag: []
-post_format: []
 ---
 Tha Comhairle na Gàidhealtachd air ainmeachadh gum bi rathad Bhealach na Bà a’ dùnadh Disathairne 11mh den t-Sultain eadar 10:30m agus 1:30f mar thoradh air tachartas rothaireachd.
 
