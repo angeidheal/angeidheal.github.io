@@ -1,3 +1,7 @@
+- title: Aimsir
+  url: /roinn-seorsa/aimsir
+  description:
+
 - title: Alba
   url: /roinn-seorsa/alba
   description:
@@ -12,6 +16,10 @@
 
 - title: Blog
   url: /roinn-seorsa/blog
+  description:
+
+- title: Foghlam
+  url: /roinn-seorsa/foghlam
   description:
 
 - title: Gàidhlig
@@ -32,6 +40,10 @@
 
 - title: Poileataigs
   url: /roinn-seorsa/poileataigs
+  description:
+
+- title: Slàinte
+  url: /roinn-seorsa/slainte
   description:
 
 - title: Teicneòlas
