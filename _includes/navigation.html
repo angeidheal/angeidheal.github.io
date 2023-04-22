@@ -15,7 +15,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link" href={{"/" | relative_url}} title="Dachaigh | Home"><strong>Dachaigh</strong></a>
+        <a class="nav-link" href={{"/" | relative_url}} title="Dachaigh | Home">Dachaigh</a>
       </li>
 
       <li class="nav-item dropdown">
@@ -33,13 +33,13 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for category in site.data.categories %}
-            <a class="dropdown-item" href="{{ category.url }}"><strong>{{ category.title }}</strong></a>
+            <a class="dropdown-item" href="{{ category.url }}">{{ category.title }}</a>
           {% endfor %}
         </div>
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href={{"/mu-ar-deidhinn/" | relative_url}} title="Mu ar deidhinn | About Us"><strong>Mu ar deidhinn</strong></a>
+        <a class="nav-link" href={{"/mu-ar-deidhinn/" | relative_url}} title="Mu ar deidhinn | About Us">Mu ar deidhinn</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href={{"/lorg/" | relative_url}} title="Lorg | Search"><i class="fa-solid fa-magnifying-glass"></i></a>
