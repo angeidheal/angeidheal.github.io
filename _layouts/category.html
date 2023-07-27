@@ -11,7 +11,7 @@ layout: page
 
 {% for post in site.categories[page.category] %}
 
-  <div class="col-md-4">{{ post.date | date: "%d/%m/%y" }}</div>
-  <div class="col-md-8"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
+  <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d/%m/%y" }}</a> {{ post.title }}</a></p>
+  <br/>
   
 {% endfor %}
