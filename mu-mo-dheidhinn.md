@@ -4,21 +4,43 @@ title: Mu mo dheidhinn
 permalink: /mu-mo-dheidhinn/
 ---
 
-Fàilte dhan bhlog agam far a bhios mi a' sgrìobhadh mu dheidhinn teicneòlais Apple, na Gàidhlig agus nam pròiseactan air a bheil mi ag obair.
-
 Is mise Crìstean MacMhìcheil. Rugadh is thogadh mi ann an Siorrachd Rois.
 
 Cheumnaich mi bho Sabhal Mòr Ostaig ann an 2010 le BA (le Urram) ann an Gàidhlig is Leasachadh.
 
-Ann an 2007, stèidhich mi AbairThusa[^1], a bha na chiad lìonra sòisealta Ghàidhlig, ach dhùin e ann an 2012.
+## Mo phròiseactan làithreach
 
-Nuair a bha mi na b’ òige, cha robh mi eòlach air Gèidheil (Gàidheil LGDTC+) sam bith eile agus mar sin stèidhich mi am buidheann Bebo ‘GayGaels’ airson àite a thoirt do Ghèidheil a bhith a’ conaltradh ri chèile.
+**[An Gèidheal Ùr](https://angeidhealur.scot/)**
 
-Ann an 2008, stèidhich mi am blog naidheachd LGDTC+, An Gèidheal Ùr[^2].
+Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 
-Ann an 2020, chruthaich mi an t‑seirbheis aimsir Ghàidhlig[^3], Aimsir.scot.
+**[Faclair nan Gèidheal](https://faclair.lgbt/)**
 
-Tha mi nam bhìogan.
+Faclair de bhriathrachas LGDTC+ Gàidhlig.
+
+**[Aimsir.scot](https://aimsir.scot/)**
+
+Fiosrachadh mun aimsir.
+
+Bha Aimsir.scot stèidhichte air an API DarkSky, a chaidh a dhùnadh le Apple anns a' Ghiblean 2023. Ghluais mi dhan API aig PirateWeather a tha fhathast fo leasachadh agus mar sin tha teanns ann nach obaraich e mar bu chòir o àm gu àm agus gun nochd cuid de rudan anns a' Bheurla fhathast.
+
+**[GitHub](https://github.com/angeidheal)**
+
+'S e seo an t-ionad-tasgaidh far a bhios mi a' cumail na pròiseatan air am bi mi ag obair.
+
+## Mo sheann phròiseactan
+
+**AbairThusa**
+
+B' e lìonra sòisealta Gàidhlig a bh' ann an AbairThusa. Chaidh a stèidheachadh ann an 2007 ach gu mì-fhortanach dhùin e ann an 2012. Tha leth‑bhreac dheth fhathast ri lorg san tasg‑lann aig The Internet Archive.
+
+Ma tha thu a' lorg lìonra sòisealta Gàidhlig, mholainn am frithealaiche Mastodon, An t-Ailbhean agus an aplacaid Metatext. Tha mi a-nis a' cleachdadh an seòladh-lìn [abairthusa.scot](https://abairthusa.scot/) airson an fhrithealaiche Mastodon agam fhìn.
+
+Mura h-eil Mastodon còrdadh riut, mholainn Fòram na Gàidhlig.
+
+**Dè tha dol?**
+
+B' e iùl-lann de thachartasan a' buntainn ris a' Ghàidhlig no a' Ghàidhealtachd a bh' anns an làrach-lìn, "Dè tha dol?".
 
 ## Fo-sgriobh
 
