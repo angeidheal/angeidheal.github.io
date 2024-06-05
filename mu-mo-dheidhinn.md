@@ -22,8 +22,6 @@ Faclair de bhriathrachas LGDTC+ Gàidhlig.
 
 Fiosrachadh mun aimsir.
 
-Bha Aimsir.scot stèidhichte air an API DarkSky, a chaidh a dhùnadh le Apple anns a' Ghiblean 2023. Ghluais mi dhan API aig PirateWeather a tha fhathast fo leasachadh agus mar sin tha teanns ann nach obaraich e mar bu chòir o àm gu àm agus gun nochd cuid de rudan anns a' Bheurla fhathast.
-
 **[GitHub](https://github.com/angeidheal)**
 
 'S e seo an t-ionad-tasgaidh far a bhios mi a' cumail na pròiseatan air am bi mi ag obair.
