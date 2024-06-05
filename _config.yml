@@ -25,11 +25,8 @@ paginate_path: /duilleag-:num/
 
 #social
 mastodon: https://abairthusa.scot/@angeidheal
-twitter:
-instagram: 
-facebook:
 github: https://github.com/angeidheal
-email: 
+email: fios@criomagan.scot
 
 # Sass style
 # sass:
