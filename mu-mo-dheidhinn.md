@@ -26,13 +26,13 @@ Tha mi nam bhìogan.
 
 **RSS.** [https://criomagan.scot/feed](https://criomagan.scot/feed)
 
-**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidheal">https://abairthusa.scot/@angeidheal</a>
+**Mastodon.** <a rel="me" href="{{ site.mastodon }}">{{ site.mastodon }}</a>
 
 ## Cuir fios
 
 Faodar fios a chur thugam air:
 
-**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidheal">https://abairthusa.scot/@angeidheal</a>
+**Mastodon.** <a rel="me" href="{{ site.mastodon }}">{{ site.mastodon }}</a>
 
 **Post-d.** [fios@criomagan.scot](mailto:fios@criomagan.scot)
 
