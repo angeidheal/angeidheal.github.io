@@ -24,13 +24,9 @@ Tha mi nam bhìogan.
 
 ## Fo-sgriobh
 
-**RSS.** [https://macmhicheil.scot/feed](https://macmhicheil.scot/feed)
+**RSS.** [https://criomagan.scot/feed](https://criomagan.scot/feed)
 
 **Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidheal">https://abairthusa.scot/@angeidheal</a>
-
-**Instagram** [https://instagram.com/angeidheal](https://instagram.com/angeidheal)
-
-**Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
 
 ## Cuir fios
 
@@ -38,11 +34,7 @@ Faodar fios a chur thugam air:
 
 **Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidheal">https://abairthusa.scot/@angeidheal</a>
 
-**Threads.** [https://threads.net/@angeidheal](https://threads.net/@angeidheal)
-
-**Instagram** [https://instagram.com/angeidheal](https://instagram.com/angeidheal)
-
-**Post-d.** [fios@macmhicheil.scot](mailto:fios@macmhicheil.scot)
+**Post-d.** [fios@criomagan.scot](mailto:fios@criomagan.scot)
 
 ## Notaichean
 
