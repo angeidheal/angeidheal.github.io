@@ -22,7 +22,7 @@ Tha mi nam bhìogan.
 
 ## Fo-sgriobh
 
-Faodar fios fhaighinn nuair a bhios postaichean ùra ann le a bhith [Inbhir RSS]({{ site.baseurl }}/feed)
+Faodar fios fhaighinn nuair a bhios postaichean ùra ann le bhith a' fo-sgrìobhadh ris an [Inbhir RSS]({{ site.baseurl }}/feed) seo.
 
 ## Cuir fios
 
