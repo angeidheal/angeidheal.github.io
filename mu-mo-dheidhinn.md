@@ -34,9 +34,11 @@ Bha Aimsir.scot stèidhichte air an API DarkSky, a chaidh a dhùnadh le Apple an
 
 B' e lìonra sòisealta Gàidhlig a bh' ann an AbairThusa. Chaidh a stèidheachadh ann an 2007 ach gu mì-fhortanach dhùin e ann an 2012. Tha leth‑bhreac dheth fhathast ri lorg san tasg‑lann aig The Internet Archive.
 
-Ma tha thu a' lorg lìonra sòisealta Gàidhlig, mholainn am frithealaiche Mastodon, An t-Ailbhean agus an aplacaid Metatext. Tha mi a-nis a' cleachdadh an seòladh-lìn [abairthusa.scot](https://abairthusa.scot/) airson an fhrithealaiche Mastodon agam fhìn.
+Ma tha thu a' lorg lìonra sòisealta Gàidhlig, mholainn am frithealaiche Mastodon, [An t-Ailbhean](https://ailbhean.co-shaoghal.net/explore) agus an aplacaid [Metatext](https://apps.apple.com/us/app/metatext/id1523996615).
 
-Mura h-eil Mastodon còrdadh riut, mholainn Fòram na Gàidhlig.
+Tha mi a-nis a' cleachdadh an seòladh-lìn [abairthusa.scot](https://abairthusa.scot/) airson an fhrithealaiche Mastodon agam fhìn.
+
+Mura h-eil Mastodon còrdadh riut, mholainn [Fòram na Gàidhlig](https://www.foramnagaidhlig.net/foram/index.php).
 
 **Dè tha dol?**
 
