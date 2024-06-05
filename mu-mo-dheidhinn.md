@@ -24,17 +24,15 @@ Tha mi nam bhìogan.
 
 ## Fo-sgriobh
 
-**RSS.** [{{ site.baseurl }}/feed]({{ site.baseurl }}/feed)
-
-**Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
+[Inbhir RSS]({{ site.baseurl }}/feed)
 
 ## Cuir fios
 
 Faodar fios a chur thugam air:
 
-**Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
+<a rel="me" href="{{ site.mastodon }}" target="_blank">Mastodon</a>
 
-**Post-d.** [fios@criomagan.scot](mailto:fios@criomagan.scot)
+[Post-d](mailto:fios@criomagan.scot)
 
 ## Notaichean
 
