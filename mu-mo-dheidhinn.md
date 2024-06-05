@@ -24,7 +24,7 @@ Tha mi nam bhìogan.
 
 ## Fo-sgriobh
 
-**RSS.** [https://criomagan.scot/feed](https://criomagan.scot/feed)
+**RSS.** [{{ site.baseurl }}/feed]({{ site.baseurl }}/feed)
 
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
 
