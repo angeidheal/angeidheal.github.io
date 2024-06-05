@@ -1,11 +1,23 @@
-- title: Dachaigh
-  url: /
-  description:
-
-- title: Blog Chrìstein
+- title: Blog
   url: /blog
-  description: Blog Chrìstein
+  description: Mo bhlog | My blog
+
+- title: An Gèidheal Ùr
+  url: https://angeidhealur.scot/
+  description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
+
+- title: Faclair nan Gèidheal
+  url: https://faclair.lgbt/
+  description: Faclair de bhriathrachas LGDTC+ Gàidhlig.
+
+- title: Aimsir.scot
+  url: https://aimsir.scot/
+  description: Fiosrachadh mun aimsir.
 
 - title: Mu mo dheidhinn
   url: /mu-mo-dheidhinn
-  description: Mu mo dheidhinn
+  description: Mu mo dheidhinn | About me
+
+- title: Lorg
+  url: /lorg
+  description: Lorg | Search
