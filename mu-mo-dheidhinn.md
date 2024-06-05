@@ -32,11 +32,9 @@ Bha Aimsir.scot stèidhichte air an API DarkSky, a chaidh a dhùnadh le Apple an
 
 **AbairThusa**
 
-B' e lìonra sòisealta Gàidhlig a bh' ann an AbairThusa. Chaidh a stèidheachadh ann an 2007 ach gu mì-fhortanach dhùin e ann an 2012. Tha leth‑bhreac dheth fhathast ri lorg san tasg‑lann aig The Internet Archive.
+B' e lìonra sòisealta Gàidhlig a bh' ann an AbairThusa. Chaidh a stèidheachadh ann an 2007 ach gu mì-fhortanach dhùin e ann an 2012. Tha leth‑bhreac dheth fhathast ri lorg san [tasg‑lann aig The Internet Archive](https://web.archive.org/web/20090205170058/http://abairthusa.ning.com/). Tha mi a-nis a' cleachdadh an seòladh-lìn [abairthusa.scot](https://abairthusa.scot/) airson an fhrithealaiche Mastodon agam fhìn.
 
-Ma tha thu a' lorg lìonra sòisealta Gàidhlig, mholainn am frithealaiche Mastodon, [An t-Ailbhean](https://ailbhean.co-shaoghal.net/explore) agus an aplacaid [Metatext](https://apps.apple.com/us/app/metatext/id1523996615).
-
-Tha mi a-nis a' cleachdadh an seòladh-lìn [abairthusa.scot](https://abairthusa.scot/) airson an fhrithealaiche Mastodon agam fhìn.
+Ma tha thu a' lorg lìonra sòisealta Gàidhlig, mholainn am frithealaiche Mastodon, [An t-Ailbhean](https://ailbhean.co-shaoghal.net/explore) agus an aplacaid [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) a chleachdadh.
 
 Mura h-eil Mastodon còrdadh riut, mholainn [Fòram na Gàidhlig](https://www.foramnagaidhlig.net/foram/index.php).
 
@@ -51,11 +49,3 @@ Faodar fios fhaighinn nuair a bhios postaichean ùra ann le bhith a' fo-sgrìobh
 ## Cuir fios
 
 Faodar fios a chur thugam air <a rel="me" href="{{ site.mastodon }}" target="_blank">Mastodon</a> no [post-d](mailto:fios@criomagan.scot).
-
-## Notaichean
-
-[^1]: Tha leth‑bhreac dheth fhathast ri lorg san [tasg‑lann aig The Internet Archive](https://web.archive.org/web/20090205170058/http://abairthusa.ning.com/)
-
-[^2]: B’ e Naidheachdan Pinc a th’ ainm a bh’ air bho thùs.
-
-[^3]: Faodar ga cleachdadh sa Gaeilge cuideachd.
