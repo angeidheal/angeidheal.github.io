@@ -22,7 +22,7 @@ Tha mi nam bhìogan.
 
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
 
-**Inbhir RSS.** <a href="{{ site.baseurl }}/feed">{{ site.baseurl }}/feed</a>
+**Inbhir RSS.** <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
 
 
 ## Cuir fios
