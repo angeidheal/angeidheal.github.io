@@ -20,14 +20,9 @@ Tha mi nam bhìogan.
 
 ## Fo-sgriobh
 
-**Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
-
 **Inbhir RSS.** <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
 
-
 ## Cuir fios
-
-**Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
 
 **Post-d.** <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
