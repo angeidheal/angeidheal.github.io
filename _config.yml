@@ -16,7 +16,7 @@ url: "https://criomagan.scot" # the base hostname & protocol for your site
 #footer
 author: Crìstean MacMhìcheil
 website: "https://criomagan.scot/"
-mastodon: https://mastodon.social/@angeidheal
+mastodon: 
 github: https://github.com/angeidheal
 email: fios@criomagan.scot
 
