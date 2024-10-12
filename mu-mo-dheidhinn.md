@@ -22,7 +22,7 @@ Tha mi nam bhìogan.
 
 **Instagram** • <a href="{{ site.instragram }}">{{ site.instagram }}</a>
 
-**Threads** • <a href="{{ site.threads }}">{{ site.thread }}</a>
+**Threads** • <a href="{{ site.threads }}">{{ site.threads }}</a>
 
 **Bluesky** • <a href="{{ site.bluesky }}">{{ site.bluesky }}</a>
 
