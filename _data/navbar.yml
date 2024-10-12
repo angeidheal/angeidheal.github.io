@@ -2,6 +2,14 @@
   url: /
   description: Mo bhlog | My blog
 
+- title: Mu mo dheidhinn
+  url: /mu-mo-dheidhinn
+  description: Mu mo dheidhinn | About me
+
+- title: Lorg
+  url: /lorg
+  description: Lorg | Search
+
 - title: An Gèidheal Ùr
   url: https://angeidhealur.scot/
   description: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
@@ -13,11 +21,3 @@
 - title: Aimsir.scot
   url: https://aimsir.scot/
   description: Fiosrachadh mun aimsir.
-
-- title: Mu mo dheidhinn
-  url: /mu-mo-dheidhinn
-  description: Mu mo dheidhinn | About me
-
-- title: Lorg
-  url: /lorg
-  description: Lorg | Search
