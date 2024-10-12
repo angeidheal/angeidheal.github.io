@@ -18,7 +18,13 @@ Ann an 2020, chruthaich mi an t‑seirbheis aimsir Ghàidhlig[^3], Aimsir.scot.
 
 Tha mi nam bhìogan.
 
-## Fo-sgriobh
+## Lean mi
+
+**Instagram** <a href="{{ site.instragram }}">{{ site.instagram }}</a>
+
+**Threads** <a href="{{ site.threads }}">{{ site.thread }}</a>
+
+**Bluesky** <a href="{{ site.bluesky }}">{{ site.bluesky }}</a>
 
 **Inbhir RSS.** <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
 
