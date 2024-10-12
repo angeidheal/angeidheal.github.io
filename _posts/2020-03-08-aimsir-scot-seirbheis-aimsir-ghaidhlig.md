@@ -23,6 +23,6 @@ Ma dh’fhaoidte gum bi cuid dhuibh eòlach air an aplacaid aimsire air leth [Da
 
 ## Ùrachadh: 12mh Am Màrt 2020
 
-Gabhaidh [a cleachdadh sa Gaelige](https://aimsir.scot/gaeilge/) a-nis!
+Gabhaidh [a cleachdadh sa Gaeilge](https://aimsir.scot/gaeilge/) a-nis!
 
 Bu toigh leam Gàidhlig Mhanainn a chur rithe cuideachd. Cuir fios thugam ma bhios tu deònach mo chuideachadh leis an eadar-theangachadh.
