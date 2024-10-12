@@ -20,7 +20,7 @@ Tha mi nam bhìogan.
 
 ## Lean mi
 
-**Instagram** • <a href="{{ site.instragram }}">{{ site.instagram }}</a>
+**Instagram** • <a href="{{ site.instagram }}">{{ site.instagram }}</a>
 
 **Threads** • <a href="{{ site.threads }}">{{ site.threads }}</a>
 
