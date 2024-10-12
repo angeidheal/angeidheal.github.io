@@ -20,17 +20,17 @@ Tha mi nam bhìogan.
 
 ## Lean mi
 
-**Instagram** <a href="{{ site.instragram }}">{{ site.instagram }}</a>
+**Instagram** • <a href="{{ site.instragram }}">{{ site.instagram }}</a>
 
-**Threads** <a href="{{ site.threads }}">{{ site.thread }}</a>
+**Threads** • <a href="{{ site.threads }}">{{ site.thread }}</a>
 
-**Bluesky** <a href="{{ site.bluesky }}">{{ site.bluesky }}</a>
+**Bluesky** • <a href="{{ site.bluesky }}">{{ site.bluesky }}</a>
 
-**Inbhir RSS.** <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
+**Inbhir RSS** • <a href="{{ site.url }}/feed">{{ site.url }}/feed</a>
 
 ## Cuir fios
 
-**Post-d.** <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+**Post-d** • <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ## Notaichean
 
