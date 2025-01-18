@@ -26,7 +26,7 @@ email: fios@criomagan.scot
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title/
-paginate: 12
+paginate: 8
 paginate_path: /duilleag-:num/
 
 # Sass style
