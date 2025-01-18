@@ -28,24 +28,7 @@ layout: page
 
 {% for post in paginator.posts %}
   <p>
-    {% assign m = post.date | date: "%-m" %}
-    {{ post.date | date: "%d" }}
-    {% case m %}
-      {% when '1' %}Faoi
-      {% when '2' %}Gear
-      {% when '3' %}Màrt
-      {% when '4' %}Gibl
-      {% when '5' %}Cèit
-      {% when '6' %}Ògmh
-      {% when '7' %}Iuch
-      {% when '8' %}Lùna
-      {% when '9' %}Sult
-      {% when '10' %}Dàmh
-      {% when '11' %}Samh
-      {% when '12' %}Dùbh
-    {% endcase %}
-    <!--{{ post.date | date: "%Y" }}-->
-    • <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    {{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
   </p>
 {% endfor %}
 
