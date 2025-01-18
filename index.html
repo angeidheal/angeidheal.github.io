@@ -26,12 +26,14 @@ layout: page
 
 <h2>Mo bhlog</h2>
 
-{% for post in paginator.posts %}
-  <div class="row">
-    <div class="col-md-2">{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</div>
-    <div class="col-md-10"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
-  </div>
-{% endfor %}
+<div class="container">
+  {% for post in paginator.posts %}
+    <div class="row">
+      <div class="col-md-2">{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</div>
+      <div class="col-md-10"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
+    </div>
+  {% endfor %}
+</div>
 
 <div style="margin-top: 28px">
   {% if paginator.total_pages > 1 %}
