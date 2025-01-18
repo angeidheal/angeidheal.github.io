@@ -8,7 +8,7 @@
 # Site settings
 title: Blog Chrìstein
 description: > # this means to ignore newlines until "baseurl:"
-  Blog mu Apple, teicneòlas is pròiseactan Chrìstein MhiMhìcheil
+  Blog mu Apple, teicneòlas is pròiseactan Chrìstein MhicMhìcheil
 
 #baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://angeidheal.scot" # the base hostname & protocol for your site
