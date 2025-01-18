@@ -27,26 +27,26 @@ layout: page
 <h2>Mo bhlog</h2>
 
 {% for post in paginator.posts %}
-  <p><a href="{{ site.baseurl }}{{ post.url }}">
+  <p>
     {% assign m = post.date | date: "%-m" %}
     {{ post.date | date: "%d" }}
     {% case m %}
-      {% when '1' %}Am Faoilleach
-      {% when '2' %}An Gearran
-      {% when '3' %}Am Màrt
-      {% when '4' %}An Giblean
-      {% when '5' %}An Cèitean
-      {% when '6' %}An t-Ògmhios
-      {% when '7' %}An t-Iuchar
-      {% when '8' %}An Lùnastal
-      {% when '9' %}An t-Sultain
-      {% when '10' %}An Dàmhair
-      {% when '11' %}An t-Samhain
-      {% when '12' %}An Dùbhlachd
+      {% when '1' %}Faoi
+      {% when '2' %}Gear
+      {% when '3' %}Màrt
+      {% when '4' %}Gibl
+      {% when '5' %}Cèit
+      {% when '6' %}Ògmh
+      {% when '7' %}Iuch
+      {% when '8' %}Lùna
+      {% when '9' %}Sult
+      {% when '10' %}Dàmh
+      {% when '11' %}Samh
+      {% when '12' %}Dùbh
     {% endcase %}
-    {{ post.date | date: "%Y" }}
-    {{ post.title }}
-  </a></p>
+    <!--{{ post.date | date: "%Y" }}-->
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  </p>
 {% endfor %}
 
 <div style="margin-top: 28px">
