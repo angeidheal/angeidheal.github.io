@@ -1,19 +1,19 @@
-- title: <i class="fa-solid fa-magnifying-glass"></i>
+- title: <i class="fa-solid fa-house"></i>
   url: /
   description: Mo bhlog | My blog
 
-- title: Tasg-lann
+- title: <i class="fa-solid fa-magnifying-glass"></i>
   url: /tasg-lann
   description: Tasg-lann | Archive
 
-- title: Mastodon
+- title: <i class="fa-brands fa-mastodon"></i>
   url: https://criomagan.scot/@angeidheal
   description:
 
-- title: Bluesky
+- title: <i class="fa-brands fa-bluesky"></i>
   url: https://bsky.app/profile/angeidheal.scot
   description: 
 
-- title: RSS
+- title: <i class="fa-solid fa-square-rss"></i>
   url: https://angeidheal.scot/feed
   description: 
