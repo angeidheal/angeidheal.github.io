@@ -72,13 +72,7 @@ p a:hover, li a:hover {
   text-decoration: underline;
 }
 
-code {
-  color: $text-color;
-  border-left: 3px solid $brand-color;
-  padding-left: 8px;
-}
-
-blockquote {
+blockquote, code {
   border-left: 3px solid $brand-color;
   padding-left: 8px;
 }
