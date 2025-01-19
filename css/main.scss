@@ -5,11 +5,7 @@ $text-color: #f0f0f0;
 $background-color: #0d1117;
 $brand-color: #fb900c;
 
-// Width of the content area
-$content-width: 940px;
 
-$on-palm: 600px;
-$on-laptop: 940px;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
