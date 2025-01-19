@@ -82,25 +82,6 @@ blockquote {
   padding-left: 8px;
 }
 
-/* Navbar */
-
-.navbar {
-  border-radius: 0;
-  background-color: $background-color;
-}
-
-.navbar-dark .navbar-nav .nav-link{
-  color: $text-color;
-}
-
-.navbar-dark .navbar-nav .nav-link:hover{
-  text-decoration: underline;
-}
-
-.navbar-toggler {
-  margin: o auto;
-}
-
 .site-title {
   font-family: Lemonada;
   color: $text-color;
