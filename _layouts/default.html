@@ -4,14 +4,60 @@ layout: compress
 
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+    {% if page.title %}
+      <title>{{ page.title }} - {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
+  
+    <!--CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+  
+    <!--Fonts-->
+    <script src="https://kit.fontawesome.com/3bcb25d86b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lemonada:300,400,500,600,700" />
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Outfit:Thin,ExtraLight,Light,Regular,Medium,SemiBold,Bold,ExtraBold,Black" />
+  
+    <!--RSS Feed-->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
+  </head>  
 
   <body>
     <img src="{{ site.url }}/images/logo.jpg" style="display: block; margin-left: auto; margin-right: auto; margin-top: 56px; border-radius: 50%" width="100" height="100">
     <h1 style="text-align: center; font-family: Lemonada; color: #f0f0f0">{{ site.title }}</h1>
     <p style="text-align: center; color: #f0f0f0;">{{ site.description }}</p>
     
-    {% include navigation.html %}
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+          <ul class="navbar-nav">
+            {% for site in site.data.navbar %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </div>
 
     <div class="container content-area">
       <div class="row">
@@ -21,7 +67,16 @@ layout: compress
       </div>
     </div>
 
-    {% include footer.html %}
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p>Dèanta le <i class="fas fa-heart"></i> le <a target="_blank" href="{{ site.website}}">{{ site.author }}</a>.</p>
+            <p>Le cumhachd <a target="_blank" href="https://jekyllrb.com" target="_blank">Jekyll</a>.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <!-- JS, and jQuery -->
     <script
