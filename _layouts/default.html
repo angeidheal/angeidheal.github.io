@@ -33,6 +33,14 @@ layout: compress
     <h1 style="text-align: center; font-family: Lemonada; color: #f0f0f0">{{ site.title }}</h1>
     <p style="text-align: center; color: #f0f0f0;">{{ site.description }}</p>
     
+    <ul class="nav nav-pills nav-fill">
+      {% for site in site.data.navbar %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
     <nav class="navbar navbar-expand-lg navbar-dark">
       <button
         class="navbar-toggler"
