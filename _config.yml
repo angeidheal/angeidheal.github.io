@@ -15,17 +15,19 @@ url: "https://angeidheal.scot" # the base hostname & protocol for your site
 
 #footer
 author: Crìstean MacMhìcheil
-website: "https://criomagan.scot/"
-mastodon: 
-bluesky: https://bsky.app/profile/angeidheal.bsky.social
-instagram: https://www.instagram.com/angeidheal
-threads: https://www.threads.net/@angeidheal
+website: "https://angeidheal.scot/"
+mastodon: https://criomagan.scot/@angeidheal
+bluesky: https://bsky.app/profile/angeidheal.scot.bsky.social
+instagram: 
+threads: 
 github: https://github.com/angeidheal
-email: fios@criomagan.scot
+email: fios@angeidheal.scot
 
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title/
+
+# No. of posts on homepage
 paginate: 8
 paginate_path: /duilleag-:num/
 
