@@ -35,18 +35,21 @@ layout: compress
     <p style="text-align: center; color: #f0f0f0;">{{ site.description }}</p>
     
     <div class="container">
-      <ul class="nav nav-pills nav-justified">
+      <ul class="nav nav-justified">
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-offset-3">
         {% for site in site.data.navbar %}
         <li class="nav-item">
           <a class="nav-link" href="{{ site.url }}" title="{{ site.description }}">{{ site.title }}</a>
         </li>
         {% endfor %}
+      </div>
       </ul>
     </div>
 
     <div class="container content-area">
       <div class="row">
-        <div class="col-md-8 offset-md-2">
+        <div class="col-md-6 offset-md-3">
           {{ content }}
         </div>
       </div>
