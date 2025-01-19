@@ -99,24 +99,6 @@ blockquote {
   border-radius: 0;
   background-color: $background-color;
 }
-/*
-.navbar-brand {
-  font-weight: 900;
-  font-size: 1.85em;
-  padding: 10px;
-  margin-left: 15px !important;
-  @media screen and (max-width: $on-palm) {
-    font-size: 1.5em;
-  }
-}*/
-
-.navbar-dark .navbar-brand{
-  color: $text-color;
-}
-
-.navbar-dark .navbar-brand:hover{
-  text-decoration: underline;
-}
 
 .navbar-dark .navbar-nav .nav-link{
   color: $text-color;
