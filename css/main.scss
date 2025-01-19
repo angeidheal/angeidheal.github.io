@@ -13,6 +13,7 @@ body {
   font-family: "Outfit";
   background-color: $background-color;
   font-size: 18px;
+  color: $text-color;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -90,10 +91,6 @@ blockquote {
 
 /* Post Text */
 
-.content-area{
-  color: $text-color;
-}
-
 article.post {
   margin-bottom: 28px;
 }
@@ -105,21 +102,6 @@ article.post {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-.post-body-image {
-  margin: 20px auto;
-  display: block;
-  max-width: 540px;
-}
-
-.avatar {
-  margin: 20px auto;
-  display: block;
-  max-width: 200px;
-  height: auto;
-  border-radius: 50%;
-  border: 8px solid $text-color;
 }
 
 .youtube-wrapper {
