@@ -7,7 +7,9 @@ layout: page
 <h2>Na pòstaichean as ùire</h2>
 
 {% for post in paginator.posts %}
-  {{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+  <div class="row">
+    <div class="col-lg-3"><p>{{ post.date | date: "%d" }}/{{ post.date | date: "%m" }}/{{ post.date | date: "%Y" }}</p></div>
+    <div class="col-lg-9"><p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p></div>
   </div>
 {% endfor %}
 
