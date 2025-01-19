@@ -76,6 +76,10 @@ p a:hover, li a:hover {
   color: $brand-color;
 }
 
+.nav-link:hover {
+  color: $text-color;
+}
+
 blockquote, code {
   border-left: 3px solid $brand-color;
   padding-left: 8px;
